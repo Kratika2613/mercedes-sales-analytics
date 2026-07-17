@@ -1,0 +1,1001 @@
+sale_id,sale_date,customer_id,customer_type,model,vehicle_class,engine_size_l,fuel_type,fuel_efficiency_mpg,transmission,color,manufacturing_year,mileage_km,listing_price_inr,discount_percent,sale_price_inr,quantity,dealer_id,dealer_name,city,state,region
+S00001,2024-07-17,C00759,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Black,2024,14628,5601024,1.92,5493484,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00002,2024-03-23,C00734,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2024,33118,3998672,6.05,3756752,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00003,2023-11-23,C00782,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2021,27696,3836068,2.4,3744002,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00004,2025-01-05,C00471,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Black,2024,39565,8701073,1.39,8580128,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00005,2025-01-10,C00234,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2023,12601,4308107,1.41,4247362,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00006,2024-07-23,C00364,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2023,41660,5023366,2.46,4899791,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00007,2023-12-17,C00277,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Black,2021,47784,4104189,5.16,3892412,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00008,2024-10-08,C00581,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2023,17546,14210553,9.22,12900340,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00009,2025-07-28,C00552,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2025,17359,5982571,7.7,5521913,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00010,2024-03-25,C00113,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2024,33392,10054562,7.8,9270306,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00011,2023-05-11,C00258,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2022,25009,9744657,5.21,9236960,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00012,2023-08-17,C00740,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2022,28492,4078305,1.03,4036298,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00013,2025-11-05,C00553,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2023,13035,4745895,7.86,4372867,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00014,2025-01-13,C00081,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Black,2024,15692,3678798,8.9,3351384,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00015,2025-08-31,C00434,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2023,10821,6439004,8.85,5869152,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00016,2025-02-03,C00231,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2024,58957,3701352,2.09,3623993,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00017,2024-03-27,C00070,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2024,4652,17845838,1.53,17572796,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00018,2025-09-21,C00585,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2025,35339,14403035,9.42,13046269,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00019,2023-07-13,C00479,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2023,43187,9516700,4.81,9058946,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00020,2023-08-12,C00433,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2023,12556,10557934,5.04,10025814,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00021,2025-06-26,C00016,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2023,6416,13564813,9.99,12209688,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00022,2025-09-12,C00389,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Silver,2025,56665,8859131,1.53,8723586,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00023,2025-05-16,C00678,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2023,62738,4393840,8.05,4040135,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00024,2023-04-30,C00059,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Red,2021,48217,3581634,7.73,3304773,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00025,2025-11-06,C00692,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2025,55793,6153508,6.36,5762144,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00026,2026-05-02,C00579,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2026,40591,13947359,6.92,12982201,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00027,2024-06-27,C00324,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2023,8577,6890070,3.7,6635137,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00028,2026-01-06,C00071,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2026,33153,5254804,9.4,4760852,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00029,2026-01-17,C00670,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2024,19825,6504352,9.89,5861071,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00030,2024-06-25,C00279,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2024,58308,4539962,5.98,4268472,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00031,2024-06-24,C00053,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Silver,2022,32016,5356729,9.17,4865516,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00032,2024-11-14,C00453,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2024,41753,4037720,2.45,3938795,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00033,2026-01-22,C00441,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2026,54696,4803290,5.97,4516533,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00034,2025-01-02,C00799,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2025,44699,6004648,1.93,5888758,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00035,2025-04-24,C00422,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2025,11754,8151421,3.99,7826179,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00036,2023-03-21,C00359,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2022,14577,5199204,9.27,4717237,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00037,2025-03-27,C00286,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2024,18258,4071780,9.7,3676817,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00038,2023-08-25,C00040,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Silver,2022,11702,6717000,9.85,6055375,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00039,2026-05-26,C00261,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Black,2024,7578,6071936,6.19,5696083,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00040,2025-06-02,C00322,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2025,62185,13580814,3.97,13041655,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00041,2024-10-30,C00431,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2023,45692,3836886,2.15,3754392,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00042,2026-01-27,C00594,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Blue,2026,19914,4690876,4.87,4462430,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00043,2025-11-12,C00174,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2024,52018,5204426,8.16,4779744,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00044,2024-04-26,C00026,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2022,20343,5622125,2.79,5465267,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00045,2025-04-28,C00507,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,37727,4277119,7.27,3966172,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00046,2025-05-20,C00476,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2025,11526,4518213,7.26,4190190,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00047,2025-08-09,C00774,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2023,34808,5223742,6.36,4891512,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00048,2025-08-30,C00284,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Silver,2024,16986,6005155,8.56,5491113,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00049,2024-08-08,C00083,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2024,17807,6141992,9.04,5586755,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00050,2024-03-14,C00426,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,,2024,27188,10219258,5.88,9618365,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00051,2023-02-10,C00306,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Red,2021,24928,8755721,9.48,7925678,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00052,2024-03-25,C00685,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2023,28562,14374547,4.5,13727692,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00053,2025-12-29,C00028,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,White,2025,59436,6220264,6.08,5842071,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00054,2023-04-13,C00346,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2022,24844,5472778,5.09,5194213,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00055,2025-08-21,C00359,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2025,49088,4243821,10.0,3819438,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00056,2024-05-21,C00130,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,54999,3309431,2.37,3230997,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00057,2024-06-08,C00736,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2023,10996,15773960,9.67,14248618,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00058,2023-02-22,C00407,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2022,37735,5011714,9.62,4529587,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00059,2024-09-09,C00580,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2022,39348,13040013,8.17,11974643,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00060,2023-05-22,C00502,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Silver,2021,42437,7922165,8.65,7236897,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00061,2025-06-10,C00631,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Blue,2025,48090,5481774,6.85,5106272,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00062,2024-05-17,C00476,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2024,18279,5125508,3.19,4962004,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00063,2024-01-08,C00287,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2023,13901,5761155,3.33,5569308,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00064,2024-05-09,C00708,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2022,26635,13244198,7.82,12208501,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00065,2024-08-25,C00596,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Red,2024,26502,4171211,3.76,4014373,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00066,2026-02-01,C00258,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2025,23056,6504176,3.44,6280432,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00067,2023-09-02,C00197,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Silver,2021,35118,13558973,7.21,12581371,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00068,2024-02-02,C00726,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2023,14908,4456087,3.72,4290320,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00069,2024-08-21,C00503,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2022,61871,2724128,8.82,2483859,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00070,2025-09-07,C00490,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2024,22328,4207778,1.46,4146344,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00071,2026-03-27,C00577,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2024,44987,4372976,2.34,4270648,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00072,2025-05-02,C00536,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2023,39067,4616956,3.03,4477062,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00073,2025-05-28,C00758,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2024,37265,4180582,6.49,3909262,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00074,2023-06-16,C00003,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Grey,2023,15719,15814757,1.68,15549069,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00075,2023-03-08,C00465,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Silver,2023,18881,6435392,7.33,5963677,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00076,2023-08-24,C00146,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2021,14733,14257963,9.18,12949081,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00077,2026-03-11,C00717,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2025,28780,4052969,7.2,3761155,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00078,2023-06-14,C00619,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2021,2612,5928518,7.61,5477357,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00079,2026-04-17,C00042,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Red,2026,50119,14469057,3.43,13972768,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00080,2024-01-07,C00094,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2022,28566,5128836,5.43,4850340,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00081,2023-08-03,C00679,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2023,21614,6835343,5.46,6462133,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00082,2024-05-31,C00527,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2023,7597,5950034,4.64,5673952,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00083,2025-11-27,C00779,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2024,40804,3623303,6.63,3383078,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00084,2025-06-16,C00624,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2023,31766,5754231,9.76,5192618,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00085,2025-04-15,C00473,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2025,14725,4569155,9.22,4147878,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00086,2024-07-13,C00468,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,White,2023,54704,3765399,5.25,3567715,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00087,2024-07-19,C00003,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,22274,7358351,5.57,6948490,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00088,2025-07-03,C00557,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Silver,2023,31741,4856044,5.97,4566138,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00089,2026-03-17,C00326,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2025,15306,16018760,4.7,15265878,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00090,2023-03-17,C00103,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,32918,7655375,3.99,7349925,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00091,2023-10-23,C00481,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2022,57077,4907351,2.39,4790065,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00092,2024-11-03,C00642,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2022,56317,7593977,9.59,6865714,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00093,2024-08-11,C00779,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,White,2024,48940,4750202,9.81,4284207,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00094,2023-04-05,C00442,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2022,52176,3588168,4.23,3436388,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00095,2024-01-04,C00635,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Red,2024,11473,10435211,8.84,9512738,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00096,2025-08-02,C00477,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2023,16644,6457327,7.0,6005314,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00097,2026-04-18,C00468,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2025,41873,5514826,7.21,5117207,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00098,2024-04-30,C00717,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2023,37481,5188802,3.66,4998891,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00099,2023-01-17,C00051,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2021,56693,7738369,7.7,7142514,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00100,2024-01-25,C00676,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2022,16425,6091438,7.49,5635189,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00101,2025-06-21,C00303,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,White,2025,37982,3782284,2.18,3699830,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00102,2026-01-09,C00169,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Silver,2025,34789,14001666,3.45,13518608,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00103,2025-08-17,C00693,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2025,9224,7552525,3.03,7323683,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00104,2024-06-25,C00689,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2022,8099,9381358,7.06,8719034,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00105,2024-04-23,C00336,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2023,1640,7038008,9.49,6370101,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00106,2025-04-16,C00505,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2025,9160,6108218,1.33,6026978,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00107,2025-07-18,C00554,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2024,43940,6671446,7.27,6186431,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00108,2026-06-14,C00380,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2025,61541,4614687,1.29,4555157,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00109,2023-07-23,C00368,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Silver,2021,24073,13500051,9.8,12177046,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00110,2025-07-20,C00022,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2025,43435,14021350,6.76,13073506,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00111,2024-02-25,C00222,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2024,54382,6718618,2.86,6526465,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00112,2023-10-24,C00677,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2023,35403,3766531,2.57,3669731,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00113,2026-04-20,C00760,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2025,1034,6626799,1.47,6529385,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00114,2025-07-07,C00227,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,33635,5050684,5.07,4794614,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00115,2025-09-07,C00455,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2024,27936,3809962,5.41,3603843,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00116,2023-09-16,C00333,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2022,40915,6489990,5.94,6104484,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00117,2023-08-23,C00221,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2021,42658,8515461,5.96,8007939,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00118,2025-07-17,C00321,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2024,27262,9823549,3.81,9449271,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00119,2023-07-06,C00382,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2023,6109,6539303,7.7,6035776,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00120,2025-04-21,C00739,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2024,,5496185,7.75,5070230,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00121,2023-08-01,C00230,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2021,33253,3672573,6.91,3418798,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00122,2024-07-24,C00786,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2022,14821,6240681,8.61,5703358,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00123,2024-09-24,C00580,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2023,23004,6444696,8.83,5875629,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00124,2025-12-22,C00379,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2025,24654,4051265,4.07,3886378,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00125,2023-11-15,C00279,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2023,49442,5105631,7.07,4744662,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00126,2024-07-13,C00114,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2024,49475,5437099,4.11,5213634,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00127,2024-03-27,C00309,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2023,64516,3634272,1.07,3595385,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00128,2023-09-03,C00390,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2023,32596,4723603,2.58,4601734,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00129,2025-06-12,C00590,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2025,30130,10811510,8.76,9864421,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00130,2023-08-24,C00633,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2022,1366,11314174,2.55,11025662,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00131,2024-05-13,C00318,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2023,38592,8911562,1.71,8759174,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00132,2025-11-11,C00795,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2023,7472,6777583,2.75,6591199,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00133,2023-07-30,C00779,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2023,16775,7402065,6.42,6926852,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00134,2026-02-28,C00659,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2024,29419,5141300,8.94,4681667,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00135,2025-08-18,C00058,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Silver,2024,41378,5053226,3.47,4877879,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00136,2023-03-19,C00093,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2023,24165,6393959,1.69,6285901,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00137,2026-03-16,C00155,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Black,2024,12336,3539626,5.28,3352733,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00138,2025-10-30,C00450,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2023,11308,5687097,7.37,5267957,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00139,2025-04-17,C00663,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2024,44492,4025819,8.1,3699727,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00140,2025-03-02,C00618,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Black,2024,16514,5547351,6.91,5164029,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00141,2024-09-27,C00726,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2022,45775,5810797,2.16,5685283,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00142,2023-09-19,C00702,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Red,2021,46060,8321962,7.65,7685331,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00143,2025-01-12,C00785,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2024,11813,7054936,4.08,6767094,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00144,2023-06-08,C00553,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2022,55340,6169741,5.57,5826086,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00145,2025-02-10,C00640,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2025,10633,7578944,7.24,7030228,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00146,2024-05-01,C00460,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2023,40015,8707855,7.74,8033867,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00147,2025-01-23,C00788,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2023,62071,4314673,4.97,4100233,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00148,2024-02-13,C00493,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2022,9070,9888776,1.47,9743410,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00149,2023-06-21,C00448,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2023,17877,5773371,5.62,5448907,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00150,2025-04-29,C00084,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2025,25982,6789633,3.12,6577796,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00151,2024-11-17,C00484,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Blue,2024,9017,6834488,9.26,6201614,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00152,2023-02-08,C00745,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2022,14133,4128186,5.94,3882971,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00153,2023-09-07,C00469,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2023,15626,16386091,8.15,15050624,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00154,2026-03-23,C00630,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2026,47090,3506652,4.86,3336228,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00155,2023-06-25,C00558,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2021,63874,7123474,9.58,6441045,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00156,2025-02-03,C00354,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,48976,3136789,8.1,2882709,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00157,2023-04-01,C00798,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Grey,2022,35783,5837873,6.79,5441481,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00158,2023-05-10,C00207,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2021,50868,5882086,1.33,5803854,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00159,2025-11-21,C00038,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2024,64823,5387674,5.26,5104282,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00160,2024-07-13,C00762,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Silver,2024,52385,3526915,9.01,3209139,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00161,2025-10-15,C00085,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2024,60575,6011157,3.4,5806777,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00162,2024-08-24,C00314,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,White,2023,6723,6982950,6.95,6497634,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00163,2025-07-04,C00446,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2025,47632,5758660,4.17,5518523,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00164,2025-11-16,C00623,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2023,44525,7641012,1.28,7543207,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00165,2025-01-20,C00158,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2024,25090,5505766,1.29,5434741,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00166,2026-03-21,C00286,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2026,34698,5720314,3.83,5501225,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00167,2025-11-26,C00267,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2024,59869,5844304,3.36,5647935,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00168,2024-02-14,C00731,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2024,8895,5312852,5.07,5043490,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00169,2023-05-13,C00162,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2021,35531,5300043,3.7,5103941,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00170,2024-02-16,C00568,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Red,2024,15514,17245426,1.24,17031582,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00171,2023-06-26,C00491,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2023,20269,7503095,7.45,6944114,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00172,2024-10-11,C00353,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2022,4860,5122058,7.12,4757367,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00173,2023-04-24,C00331,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2023,33954,9554725,2.48,9317767,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00174,2024-05-28,C00641,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2024,41619,4654584,3.47,4493069,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00175,2026-04-04,C00620,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2026,11219,8084384,7.49,7478863,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00176,2026-03-27,C00633,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Grey,2025,42672,4586180,6.15,4304129,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00177,2025-09-16,C00465,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2025,52736,4320673,4.65,4119761,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00178,2025-09-18,C00736,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2024,13370,5762160,2.29,5630206,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00179,2025-11-20,C00274,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2023,6958,6593680,5.2,6250808,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00180,2024-08-17,C00164,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,56633,4527244,3.23,4381014,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00181,2025-11-20,C00093,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,White,2024,32686,6971263,5.48,6589237,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00182,2024-12-23,C00670,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2024,3312,16912261,6.38,15833258,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00183,2025-06-01,C00413,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2025,57832,3379557,4.29,3234574,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00184,2026-02-24,C00517,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2026,23758,4143423,1.66,4074642,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00185,2023-07-18,C00375,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2022,24457,5409904,4.05,5190802,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00186,2023-03-24,C00486,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2023,2550,10918116,4.0,10481391,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00187,2026-06-09,C00307,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2025,10649,7186641,6.55,6715916,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00188,2023-02-04,C00598,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2022,21708,4518582,9.82,4074857,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00189,2026-03-30,C00175,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2024,14912,5509264,6.25,5164935,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00190,2026-03-18,C00429,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Grey,2024,7202,13801254,4.97,13115331,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00191,2025-10-24,C00745,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2023,60327,11219965,8.64,10250560,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00192,2024-10-27,C00178,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2022,31350,13031043,3.82,12533257,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00193,2026-06-03,C00306,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2025,12600,7037284,3.51,6790275,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00194,2024-10-11,C00739,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2023,22859,14898031,9.41,13496126,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00195,2024-12-07,C00081,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2024,19035,10049496,9.6,9084744,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00196,2024-03-14,C00713,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2024,54260,4134095,9.4,3745490,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00197,2023-04-14,C00054,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Silver,2021,59322,11372709,6.74,10606188,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00198,2023-10-09,C00417,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Grey,2023,63210,5091320,9.36,4614772,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00199,2024-10-19,C00668,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2023,42329,12682345,7.92,11677903,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00200,2023-03-16,C00297,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2022,51639,8473158,9.43,7674139,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00201,2024-08-05,C00138,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,64821,4350881,5.72,4102010,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00202,2023-11-29,C00015,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2021,30075,4722403,7.47,4369639,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00203,2026-06-05,C00336,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Grey,2024,58788,11206934,4.85,10663397,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00204,2023-10-15,C00393,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Silver,2022,21207,5590852,1.06,5531588,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00205,2026-04-07,C00710,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2024,37544,5041229,6.88,4694392,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00206,2024-09-20,C00721,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2024,26569,5740846,9.31,5206373,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00207,2026-06-12,C00466,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Grey,2026,14360,5264158,5.3,4985157,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00208,2024-03-23,C00084,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2024,44586,5756477,8.86,5246453,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00209,2026-01-26,C00336,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2024,13248,5031537,2.35,4913295,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00210,2025-09-28,C00465,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2025,58909,13529563,8.28,12409315,1,D010,Mercedes-Benz Bhopal,Bhopal,,Central
+S00211,2025-08-04,C00261,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2023,52882,2930185,1.2,2895022,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00212,2025-05-17,C00071,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2024,45900,4418908,9.95,3979226,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00213,2023-10-05,C00384,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2021,64116,7484947,9.67,6761152,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00214,2026-01-09,C00551,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2026,42830,10105803,2.07,9896612,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00215,2023-02-16,C00545,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2022,30343,14630973,5.9,13767745,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00216,2023-11-14,C00116,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2022,12352,6276861,7.53,5804213,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00217,2024-02-27,C00689,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2024,6612,4482413,5.02,4257395,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00218,2025-06-17,C00058,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2025,35373,3749001,8.77,3420213,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00219,2026-05-09,C00147,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Silver,2024,53633,4873692,3.72,4692390,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00220,2026-02-14,C00696,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2024,57652,3504978,2.58,3414549,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00221,2025-12-10,C00386,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2024,45633,5630858,2.34,5499095,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00222,2023-10-23,C00427,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2022,59948,11603726,4.71,11057190,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00223,2024-11-07,C00095,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2022,5181,4573101,8.62,4178899,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00224,2026-05-19,C00602,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2026,57253,8424726,8.24,7730528,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00225,2023-02-01,C00765,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2023,61417,5468548,7.67,5049110,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00226,2024-05-05,C00547,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2022,21077,14114483,4.43,13489211,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00227,2025-10-15,C00780,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2024,6462,7073825,7.5,6543288,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00228,2023-04-04,C00268,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2021,56628,4731552,2.31,4622253,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00229,2024-04-16,C00671,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2023,37341,14471359,5.49,13676881,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00230,2023-12-11,C00560,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2021,52099,4407498,2.26,4307888,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00231,2023-03-11,C00007,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2023,61943,3569575,1.44,3518173,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00232,2023-11-06,C00633,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Black,2023,14334,16674826,4.36,15947803,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00233,2026-02-03,C00549,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2025,776,3889184,7.5,3597495,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00234,2023-08-08,C00540,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2023,34366,9530785,2.73,9270594,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00235,2025-02-03,C00232,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2024,30080,9484781,9.91,8544839,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00236,2025-04-10,C00010,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2024,24718,3795502,1.51,3738189,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00237,2026-03-04,C00217,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2026,58641,8925241,1.38,8802072,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00238,2026-01-17,C00323,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2024,43129,4070815,9.36,3689786,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00239,2023-06-07,C00399,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2022,10646,7359647,6.1,6910708,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00240,2025-10-22,C00238,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,63853,5069333,1.88,4974029,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00241,2023-03-02,C00234,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2021,17912,9413554,5.05,8938169,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00242,2025-02-17,C00731,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2025,50604,6714198,8.18,6164976,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00243,2023-11-12,C00006,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Silver,2021,25534,6087606,1.96,5968288,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00244,2023-09-29,C00525,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2023,12280,4946242,6.01,4648972,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00245,2026-02-09,C00395,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2026,39120,5353907,3.92,5144033,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00246,2026-02-19,C00174,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2026,37483,9902423,7.17,9192419,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00247,2023-10-26,C00496,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2023,10958,4976323,4.79,4737957,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00248,2026-05-01,C00007,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2024,12815,14003667,2.22,13692785,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00249,2025-06-20,C00609,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2024,28220,9894122,8.74,9029375,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00250,2024-10-05,C00753,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2024,63214,13019497,3.87,12515642,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00251,2025-03-15,C00559,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2024,7463,10987680,2.8,10680024,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00252,2025-06-16,C00419,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2024,54478,4999144,8.37,4580715,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00253,2024-06-01,C00076,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Red,2022,10101,4359733,8.1,4006594,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00254,2025-11-03,C00369,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2023,27413,8739322,8.12,8029689,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00255,2026-06-08,C00410,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Black,2026,36911,6889413,7.1,6400264,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00256,2024-06-13,C00705,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Silver,2024,33467,4071268,6.02,3826177,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00257,2026-04-20,C00495,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2024,32798,8066245,9.98,7261233,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00258,2023-10-18,C00534,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2022,20440,5174942,8.06,4757841,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00259,2025-07-15,C00118,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2024,4402,5502906,8.29,5046715,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00260,2024-05-14,C00437,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2022,11432,5055665,3.98,4854449,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00261,2025-06-04,C00461,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2024,1913,7809937,8.95,7110947,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00262,2024-07-24,C00550,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2022,53000,12179473,6.2,11424345,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00263,2023-08-22,C00655,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Red,2022,43955,14075661,5.75,13266310,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00264,2023-08-22,C00690,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2022,23067,10164402,6.56,9497617,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00265,2023-08-30,C00145,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2023,20013,7214468,4.36,6899917,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00266,2025-02-24,C00661,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2024,12173,7235041,5.84,6812514,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00267,2024-01-19,C00368,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,White,2023,55180,3739782,1.48,3684433,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00268,2026-02-24,C00426,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2024,42799,12296673,7.16,11416231,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00269,2023-03-05,C00296,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Red,2023,19142,5407968,3.02,5244647,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00270,2025-11-12,C00376,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2025,37533,5443511,7.98,5009118,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00271,2023-07-29,C00034,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2021,54399,11863792,3.23,11480591,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00272,2023-08-29,C00360,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2023,13754,6172342,6.29,5784101,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00273,2024-02-28,C00552,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2024,37360,6898667,3.53,6655144,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00274,2026-03-18,C00696,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2025,62416,3805423,9.87,3429827,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00275,2023-09-17,C00330,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Blue,2021,56759,2800773,2.32,2735795,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00276,2024-07-04,C00788,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2022,27146,6094170,1.68,5991787,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00277,2025-07-20,C00751,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Grey,2024,21449,4467468,8.82,4073437,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00278,2025-12-30,C00507,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2024,14275,6997460,8.42,6408273,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00279,2026-03-29,C00699,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2026,37102,6765935,8.09,6218570,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00280,2023-09-12,C00439,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2023,28920,5948125,9.93,5357476,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00281,2024-07-15,C00681,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2024,42899,4266609,1.74,4192370,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00282,2025-05-29,C00489,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2023,5976,4427811,1.01,4383090,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00283,2025-06-30,C00433,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Black,2025,528,18115871,8.35,16603195,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00284,2023-07-02,C00307,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2021,52819,11064847,3.82,10642169,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00285,2025-12-22,C00360,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2023,555,7047582,2.48,6872801,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00286,2023-06-27,C00394,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Silver,2023,9175,6746754,6.31,6321033,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00287,2024-07-21,C00739,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2022,5521,6565759,6.41,6144893,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00288,2025-11-26,C00662,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2023,33392,3657453,4.53,3491770,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00289,2024-05-08,C00013,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2023,41817,9014264,5.75,8495943,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00290,2025-05-11,C00789,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2024,35806,9387500,7.86,8649642,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00291,2024-06-20,C00408,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2024,2610,6559594,9.54,5933808,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00292,2026-01-03,C00081,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2024,40373,7787127,1.75,7650852,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00293,2026-04-16,C00068,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Grey,2024,50018,5325962,7.13,4946220,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00294,2024-05-15,C00624,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2024,60596,13269253,5.08,12595174,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00295,2023-01-26,C00356,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2021,8992,6893976,2.47,6723694,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00296,2023-08-30,C00066,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2023,21955,7876272,3.45,7604540,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00297,2025-01-07,C00162,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2025,32742,6173672,2.5,6019330,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00298,2025-11-08,C00048,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2025,2886,6497459,1.11,6425337,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00299,2023-03-14,C00430,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2021,52632,5807401,7.67,5361973,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00300,2024-07-09,C00054,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2024,37456,9700696,5.52,9165217,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00301,2023-05-22,C00336,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Black,2022,56756,3134591,8.6,2865016,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00302,2024-08-20,C00476,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2022,51413,4917052,6.6,4592526,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00303,2023-01-14,C00711,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2022,1566,15561087,4.12,14919970,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00304,2023-08-01,C00062,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2023,34721,10671652,4.78,10161547,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00305,2025-11-30,C00766,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,45930,3600347,5.13,3415649,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00306,2023-06-03,C00134,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2021,37212,5562091,6.96,5174969,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00307,2024-10-30,C00208,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2023,29671,5947745,1.67,5848417,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00308,2025-07-09,C00789,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Silver,2024,20580,5218281,5.82,4914577,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00309,2023-09-03,C00722,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Silver,2023,10329,6764019,3.74,6511044,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00310,2024-05-23,C00267,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2023,25968,6840732,7.09,6355724,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00311,2026-01-31,C00144,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2026,6207,6564269,8.24,6023373,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00312,2024-02-10,C00087,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2023,24395,15053166,9.44,13632147,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00313,2025-06-27,C00340,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2025,6027,6454166,8.46,5908143,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00314,2026-03-21,C00392,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2025,53849,3382804,5.47,3197764,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00315,2024-07-17,C00635,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2023,29229,15123023,1.31,14924911,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00316,2025-09-08,C00205,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2025,5748,11001539,2.24,10755104,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00317,2026-01-20,C00398,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2025,22546,6703202,5.52,6333185,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00318,2024-03-24,C00484,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2024,58704,6045890,3.53,5832470,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00319,2024-05-08,C00058,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Silver,2023,34975,5172308,9.26,4693352,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00320,2024-04-29,C00606,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2022,20840,6647624,7.28,6163676,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00321,2024-01-21,C00093,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,35528,6363615,5.41,6019343,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00322,2025-12-14,C00134,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2024,44,15878933,6.53,14842038,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00323,2023-10-30,C00539,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2021,46182,3292553,7.97,3030136,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00324,2023-07-26,C00750,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2022,19776,9598535,9.78,8659798,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00325,2026-02-24,C00229,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Silver,2024,58300,5169183,8.08,4751513,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00326,2023-12-30,C00401,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2021,117,4683929,9.54,4237082,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00327,2024-03-28,C00340,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2022,37063,5122263,5.47,4842075,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00328,2023-07-01,C00458,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2021,43910,5346542,8.98,4866422,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00329,2024-12-18,C00396,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2023,51578,12204945,1.01,12081675,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00330,2025-02-14,C00592,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2024,35784,8998070,8.46,8236833,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00331,2024-08-26,C00351,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,White,2024,20887,5548804,1.94,5441157,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00332,2023-07-10,C00722,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Grey,2022,38930,5191107,9.04,4721830,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00333,2025-06-08,C00195,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2025,3509,7714422,2.85,7494560,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00334,2024-05-01,C00503,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2024,3252,5106728,5.95,4802877,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00335,2023-06-29,C00205,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2022,53994,3351943,6.4,3137418,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00336,2023-06-17,C00483,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2022,55297,5617848,8.06,5165049,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00337,2025-01-29,C00451,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2024,24209,9231751,1.4,9102506,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00338,2023-05-07,C00685,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Red,2023,49298,4331173,1.87,4250180,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00339,2023-05-05,C00704,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2022,53635,12812345,9.69,11570828,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00340,2025-03-19,C00586,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2023,2275,4372807,9.1,3974881,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00341,2024-03-09,C00700,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2024,8269,7500421,1.71,7372163,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00342,2024-06-12,C00090,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2023,59690,5982811,8.27,5488032,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00343,2025-11-30,C00639,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2024,60107,5567486,8.08,5117633,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00344,2026-03-06,C00109,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2024,38186,6105359,9.46,5527792,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00345,2024-06-24,C00039,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2023,42912,5761250,6.48,5387921,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00346,2026-05-31,C00340,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2024,45459,5614328,4.56,5358314,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00347,2025-02-01,C00288,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2025,22142,6439000,3.73,6198825,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00348,2025-06-26,C00092,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,White,2024,17656,7305907,6.44,6835406,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00349,2025-11-23,C00068,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2024,53806,7870088,8.12,7231036,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00350,2024-01-30,C00052,Individual,c-class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2024,54852,3330243,1.3,3286949,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00351,2025-10-31,C00248,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Red,2024,41642,6148802,7.13,5710392,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00352,2025-08-29,C00265,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2023,36132,4761474,2.47,4643865,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00353,2023-11-30,C00663,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2021,51106,8262338,8.71,7542688,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00354,2023-02-11,C00178,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2021,583,9698898,2.19,9486492,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00355,2025-05-17,C00478,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Red,2024,55809,3674491,3.27,3554335,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00356,2025-11-13,C00663,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2023,63339,4114288,4.37,3934493,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00357,2023-05-11,C00284,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2022,64773,4136154,3.93,3973603,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00358,2024-05-07,C00414,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2024,52784,6856962,8.29,6288519,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00359,2024-08-28,C00037,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2023,59435,3151335,4.49,3009840,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00360,2025-09-01,C00674,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2023,23494,13465377,8.61,12306008,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00361,2024-06-13,C00697,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2022,52975,4516437,9.21,4100473,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00362,2024-09-20,C00600,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Black,2023,51648,5825749,4.35,5572328,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00363,2026-04-10,C00200,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2024,61885,4348726,5.25,4120417,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00364,2023-04-21,C00584,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2023,9002,5408408,4.08,5187744,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00365,2025-09-25,C00060,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Silver,2024,41355,6787981,3.82,6528680,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00366,2026-03-26,C00133,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2026,32084,16015750,8.02,14731286,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00367,2025-02-24,C00015,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2025,2472,11554003,7.58,10678209,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00368,2024-04-08,C00393,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2022,57474,2876669,2.16,2814532,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00369,2024-08-18,C00445,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2023,47699,3393121,5.72,3199034,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00370,2023-12-04,C00135,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2022,1253,6673038,7.54,6169890,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00371,2025-01-20,C00656,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,42633,6004173,4.38,5741190,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00372,2023-02-10,C00127,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2023,45203,3524923,5.0,3348676,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00373,2023-01-20,C00277,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2022,27582,6930708,6.96,6448330,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00374,2023-08-22,C00270,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2023,32619,5217513,2.8,5071422,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00375,2023-11-25,C00493,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2023,35922,9941038,2.87,9655730,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00376,2023-08-15,C00799,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2021,43845,3145661,9.55,2845250,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00377,2024-08-29,C00041,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2023,30426,13391274,8.32,12277120,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00378,2023-08-26,C00142,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2023,55787,6095269,1.41,6009325,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00379,2024-07-03,C00117,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Blue,2022,6091,5447869,4.08,5225595,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00380,2025-09-06,C00136,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2024,42522,4224625,2.5,4119009,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00381,2025-09-15,C00798,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2023,44459,7952768,6.5,7435838,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00382,2025-09-26,C00268,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2025,58169,6276828,1.41,6188324,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00383,2025-11-29,C00678,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Silver,2023,45104,12506683,1.86,12274058,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00384,2026-02-17,C00518,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2024,3576,8966037,9.41,8122332,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00385,2024-10-18,C00229,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,White,2024,21685,6091522,1.45,6003194,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00386,2025-06-28,C00324,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Grey,2023,29366,4377111,5.49,4136807,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00387,2025-04-06,C00094,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2024,2348,4174930,1.0,4133180,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00388,2025-01-14,C00574,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2025,53515,5114187,5.09,4853874,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00389,2023-07-19,C00649,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2021,14532,4984434,4.2,4775087,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00390,2023-12-03,C00420,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2022,9204,5796487,7.68,5351316,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00391,2023-09-05,C00734,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2022,14128,15250711,8.03,14026078,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00392,2023-09-10,C00138,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2022,29975,3760879,9.61,3399458,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00393,2025-06-05,C00182,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2023,31649,3530628,8.03,3247118,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00394,2026-05-26,C00624,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2025,33037,9763956,4.77,9298215,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00395,2025-07-16,C00767,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2025,9055,7212334,7.3,6685833,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00396,2024-03-05,C00689,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2022,46817,11716354,4.11,11234811,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00397,2024-12-22,C00728,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2022,31481,5625583,9.48,5092277,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00398,2023-08-07,C00205,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2023,24960,3890091,7.03,3616617,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00399,2023-05-08,C00034,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2021,51403,3405068,7.78,3140153,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00400,2025-03-07,C00295,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2025,33483,15911013,8.19,14607901,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00401,2026-02-04,C00800,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2026,849,11966531,2.83,11627878,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00402,2026-01-24,C00199,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2024,39543,5131182,7.52,4745317,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00403,2023-12-22,C00286,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2021,33675,4311394,1.37,4252327,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00404,2024-11-07,C00331,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2023,46510,4171428,1.36,4114696,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00405,2024-10-12,C00518,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Red,2022,14415,6375931,5.69,6013140,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00406,2024-12-16,C00370,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2024,57894,8570616,3.99,8228648,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00407,2023-01-19,C00658,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2023,43839,5461250,3.16,5288674,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00408,2023-08-21,C00530,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Blue,2022,16815,6536519,3.55,6304472,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00409,2024-01-30,C00792,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2023,33678,3408652,1.86,3345251,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00410,2023-08-01,C00760,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2023,35242,15875284,8.91,14460796,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00411,2025-07-29,C00183,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,21739,5945061,1.66,5846372,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00412,2025-04-14,C00018,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2024,29564,14596839,4.9,13881593,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00413,2023-05-10,C00367,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2021,38378,3028130,8.63,2766802,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00414,2023-06-27,C00677,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,White,2022,50153,4090964,4.43,3909734,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00415,2025-03-11,C00694,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2023,19331,14572704,2.3,14237531,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00416,2023-03-27,C00088,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2023,37533,7132907,5.83,6717058,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00417,2025-04-25,C00227,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2023,55801,4951353,2.45,4830044,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00418,2023-04-22,C00688,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2021,30229,6238325,1.66,6134768,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00419,2025-09-24,C00103,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2024,23405,13979095,6.9,13014537,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00420,2025-07-11,C00157,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2024,40392,5972152,7.24,5539768,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00421,2024-10-03,C00447,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2024,51489,6322425,7.66,5838127,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00422,2025-08-05,C00112,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2024,23510,6554099,5.38,6201488,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00423,2024-02-07,C00078,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,48073,6483853,1.69,6374275,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00424,2024-03-11,C00553,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2024,36149,9605838,9.05,8736509,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00425,2026-04-22,C00523,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Silver,2024,56175,7345151,5.18,6964672,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00426,2026-06-11,C00164,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2024,10868,3782028,2.26,3696554,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00427,2023-03-24,C00379,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2023,49903,5406947,1.57,5322057,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00428,2025-01-09,C00041,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2024,30780,15084923,8.93,13737839,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00429,2026-03-31,C00375,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2024,37366,3582655,6.88,3336168,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00430,2025-04-11,C00494,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2024,53558,13428649,5.38,12706187,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00431,2023-06-07,C00162,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2021,42170,5607677,2.35,5475896,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00432,2024-11-07,C00216,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Black,2022,7427,14369016,5.31,13606021,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00433,2023-09-19,C00041,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2021,38820,11952453,6.67,11155224,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00434,2025-11-24,C00737,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2024,39279,4337582,6.74,4045228,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00435,2025-08-23,C00147,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2024,11178,5715929,4.7,5447280,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00436,2026-05-06,C00112,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2024,4511,6014181,4.47,5745347,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00437,2026-05-25,C00040,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2026,11627,11037765,6.53,10316998,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00438,2026-01-09,C00442,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2026,58783,6718997,7.11,6241276,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00439,2025-09-14,C00780,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2024,22971,9823724,7.67,9070244,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00440,2024-04-21,C00264,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2024,18564,4928250,5.89,4637976,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00441,2025-12-06,C00705,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Silver,2025,34063,3657568,6.89,3405561,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00442,2025-05-22,C00434,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2023,38362,4300864,8.69,3927118,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00443,2025-04-26,C00573,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2023,51366,7813822,2.61,7609881,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00444,2023-10-10,C00717,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2021,7804,6376121,5.02,6056039,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00445,2026-02-01,C00399,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2024,45682,8177791,1.47,8057577,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00446,2025-06-10,C00624,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Blue,2025,4199,6434854,4.34,6155581,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00447,2023-04-28,C00673,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2023,41962,4367050,1.1,4319012,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00448,2023-12-14,C00162,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2021,2363,14420739,6.9,13425708,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00449,2025-04-10,C00071,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2023,13127,6043718,7.63,5582582,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00450,2024-07-20,C00414,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2024,39738,6779864,5.09,6434768,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00451,2023-08-07,C00120,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2021,4743,9575702,4.06,9186928,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00452,2026-02-27,C00795,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2025,50460,4792228,4.06,4597663,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00453,2023-08-27,C00226,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2022,4427,4040557,8.1,3713271,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00454,2026-01-02,C00096,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2026,45928,6468091,3.23,6259171,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00455,2024-10-04,C00765,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2023,14323,7575508,3.42,7316425,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00456,2024-05-10,C00634,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2023,13551,14802306,8.51,13542629,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00457,2025-10-05,C00044,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2023,434,5443279,5.87,5123758,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00458,2026-03-22,C00524,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2025,32165,5805437,7.88,5347968,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00459,2025-12-12,C00356,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2024,31347,7070175,1.29,6978969,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00460,2025-07-31,C00389,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2024,45168,4398548,7.07,4087570,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00461,2026-01-28,C00352,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2025,15541,4386633,9.63,3964200,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00462,2025-05-08,C00287,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2023,49295,7694155,8.69,7025532,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00463,2024-04-13,C00443,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2024,47239,6502870,3.12,6299980,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00464,2023-01-20,C00646,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Silver,2023,27624,7366461,9.96,6632761,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00465,2026-03-08,C00221,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Grey,2026,26109,4442045,2.47,4332326,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00466,2024-11-16,C00264,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2023,23656,5114909,6.02,4806991,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00467,2026-05-25,C00179,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2026,37804,5371000,6.84,5003623,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00468,2023-06-10,C00149,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2022,40217,5069547,6.69,4730394,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00469,2023-06-12,C00299,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Silver,2023,22519,10170612,3.85,9779043,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00470,2026-04-17,C00024,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2024,63276,4216311,2.51,4110481,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00471,2024-03-07,C00485,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2024,26020,4446442,1.57,4376632,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00472,2024-06-21,C00400,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2022,10176,4755223,9.38,4309183,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00473,2023-09-16,C00680,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2023,34520,4739216,1.26,4679501,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00474,2024-07-11,C00553,Corporate,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Grey,2022,29153,4767450,9.54,4312635,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00475,2025-12-29,C00092,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2024,59567,7967279,5.86,7500396,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00476,2023-11-15,C00140,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2022,691,9917847,8.34,9090698,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00477,2025-09-04,C00612,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,598,4325127,8.18,3971331,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00478,2025-04-23,C00755,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2023,28646,5551710,2.47,5414582,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00479,2025-05-14,C00628,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2023,15699,4144163,8.2,3804341,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00480,2024-01-21,C00467,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2024,11954,4748981,1.99,4654476,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00481,2024-10-18,C00191,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Silver,2024,9971,6091508,5.81,5737591,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00482,2023-01-17,C00351,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2023,5911,7694646,5.44,7276057,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00483,2023-03-06,C00058,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Black,2022,5257,7147343,9.56,6464057,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00484,2024-01-29,C00787,Corporate,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Blue,2023,53559,4811583,1.11,4758174,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00485,2024-02-12,C00214,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Grey,2023,48190,13619611,5.69,12844655,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00486,2023-11-21,C00534,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2021,47725,3342972,9.44,3027395,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00487,2025-01-08,C00242,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2025,56600,4156826,9.76,3751119,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00488,2026-04-12,C00044,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2026,25939,7720189,1.08,7636810,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00489,2023-11-19,C00778,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2022,5990,5767935,4.05,5534333,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00490,2023-08-08,C00661,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2023,31971,6955221,9.84,6270827,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00491,2025-02-12,C00497,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2024,47474,12506131,9.09,11369323,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00492,2026-03-06,C00282,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2026,35626,5680147,7.59,5249023,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00493,2024-08-28,C00654,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2023,35494,6417238,1.01,6352423,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00494,2024-05-04,C00397,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Red,2023,47251,5309743,9.7,4794697,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00495,2024-08-02,C00536,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2023,26856,6933759,1.99,6795777,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00496,2024-02-18,C00658,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2024,31809,6919251,1.29,6829992,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00497,2025-01-20,C00214,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2025,39711,4551151,1.12,4500178,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00498,2026-02-16,C00726,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,61488,3034602,8.4,2779695,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00499,2024-09-14,C00104,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,White,2024,61905,3284903,5.68,3098320,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00499,2024-09-14,C00104,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,White,2024,61905,3284903,5.68,3098320,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00501,2025-05-24,C00517,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2025,10932,7537416,5.95,7088939,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00502,2024-10-07,C00423,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2022,64976,4496644,8.6,4109932,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00503,2026-01-22,C00261,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2026,24580,16524174,9.34,14980816,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00504,2023-03-12,C00310,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2022,39043,8412414,2.22,8225658,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00505,2023-02-14,C00570,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2021,53892,11284775,5.98,10609945,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00506,2023-11-16,C00239,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2023,17366,6180921,6.24,5795231,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00507,2024-03-21,C00178,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2022,5059,9855416,8.14,9053185,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00508,2026-03-26,C00343,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Blue,2025,5143,4916194,9.3,4458987,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00509,2026-05-18,C00313,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2026,41542,5422242,4.44,5181494,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00510,2025-10-25,C00403,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2023,14470,6239143,7.06,5798659,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00511,2025-03-18,C00764,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Silver,2025,8663,10957887,5.28,10379310,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00512,2025-10-24,C00493,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2024,50713,4718360,7.86,4347496,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00513,2026-06-15,C00796,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2024,34357,12356148,1.64,12153507,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00514,2025-04-27,C00609,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2024,23938,5099872,3.89,4901486,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00515,2025-06-24,C00240,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2023,9556,6069276,9.32,5503619,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00516,2023-04-22,C00295,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2023,62189,4783193,2.33,4671744,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00517,2025-07-10,C00217,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2024,1490,5593247,7.66,5164804,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00518,2023-10-17,C00680,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2021,45793,4751370,4.39,4542784,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00519,2024-02-16,C00009,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2022,40498,3097916,5.18,2937443,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00520,2023-08-09,C00237,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2023,19168,5096285,6.84,4747699,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00521,2025-12-24,C00575,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2025,12217,6167658,9.7,5569395,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00522,2025-09-30,C00361,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2024,48784,3704077,4.12,3551469,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00523,2024-06-11,C00569,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2023,58353,3960720,9.91,3568212,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00524,2023-10-09,C00628,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2023,47834,6025612,9.65,5444140,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00525,2024-10-01,C00669,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2022,21580,6311576,2.19,6173352,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00526,2023-10-04,C00579,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2022,59572,3923194,2.31,3832568,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00527,2024-10-12,C00424,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,47649,4737920,3.87,4554562,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00528,2024-01-20,C00627,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2024,8620,4849319,7.86,4468162,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00529,2023-02-23,C00515,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2022,5208,16337487,5.29,15473233,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00530,2025-08-28,C00783,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2025,10733,10643695,1.29,10506391,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00531,2024-02-23,C00632,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2024,11604,17852430,9.87,16090395,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00532,2025-04-09,C00321,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2025,39841,15342920,4.42,14664762,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00533,2025-07-24,C00406,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Red,2025,57526,5152441,5.67,4860297,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00534,2024-08-19,C00293,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2023,26085,3944662,7.96,3630666,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00535,2023-04-22,C00662,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2021,33880,4027210,5.17,3819003,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00536,2026-04-13,C00462,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,35809,4278829,4.72,4076868,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00537,2023-07-04,C00168,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2022,21238,15275016,9.16,13875824,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00538,2023-06-24,C00524,Corporate,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2021,46352,4555972,8.12,4186027,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00539,2023-12-16,C00167,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2022,37060,9570185,8.76,8731836,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00540,2024-09-22,C00642,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2023,47851,3506960,5.02,3330910,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00541,2026-06-29,C00557,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2025,800,16116043,8.7,14713947,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00542,2025-09-01,C00007,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2024,26879,14395755,6.41,13472987,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00543,2024-01-14,C00034,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2024,3608,17790023,1.33,17553415,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00544,2025-05-03,C00709,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2025,10573,4456614,6.5,4166934,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00545,2023-07-10,C00070,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2022,21156,6263037,4.41,5986837,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00546,2023-09-07,C00538,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2021,56322,4265982,5.74,4021114,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00547,2026-03-16,C00496,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Red,2024,64182,2888396,9.88,2603022,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00548,2025-12-12,C00577,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Blue,2023,40844,5215596,2.17,5102417,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00549,2024-04-21,C00025,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2022,19037,6854092,1.01,6784865,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00550,2025-04-29,C00653,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2024,2981,15696938,6.04,14748842,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00551,2024-06-05,C00786,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2024,20170,15799153,5.95,14859103,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00552,2025-03-22,C00180,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2023,37284,5501096,1.26,5431782,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00553,2023-03-14,C00550,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Blue,2021,8896,5467949,6.64,5104877,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00554,2024-09-05,C00020,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2022,47511,3168630,6.0,2978512,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00555,2024-07-28,C00170,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2024,22226,6087744,6.64,5683517,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00556,2024-10-06,C00244,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Silver,2022,2072,5051259,1.78,4961346,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00557,2024-09-11,C00207,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Red,2024,7355,16855896,1.34,16630026,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00558,2025-10-21,C00537,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2025,12465,4222681,5.35,3996767,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00559,2023-09-29,C00535,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2023,47485,4746730,4.49,4533601,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00560,2023-06-28,C00785,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2022,30597,3867611,1.93,3792966,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00561,2024-10-19,C00792,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2024,12618,4839384,5.79,4559183,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00562,2024-07-14,C00105,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2024,999,8772928,6.04,8243043,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00563,2023-10-17,C00073,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2021,52691,4871039,3.2,4715165,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00564,2023-09-24,C00393,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2023,30850,6263559,1.45,6172737,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00565,2026-05-05,C00632,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2024,41252,8526305,7.29,7904737,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00566,2023-06-10,C00716,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2022,37210,13134306,8.32,12041531,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00567,2025-08-21,C00632,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2025,62091,3796455,8.75,3464265,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00568,2024-10-27,C00360,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,White,2023,31949,6212991,5.28,5884945,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00569,2026-05-22,C00732,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2024,8348,4269064,4.65,4070552,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00570,2025-12-27,C00250,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2024,26267,5220441,3.15,5055997,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00571,2024-03-02,C00581,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2022,38729,4402785,9.82,3970431,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00572,2025-09-23,C00100,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2025,38808,5360385,3.93,5149721,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00573,2026-05-10,C00389,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2026,44925,9942567,7.94,9153127,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00574,2024-03-21,C00001,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2024,58147,3526936,7.79,3252187,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00575,2026-06-14,C00325,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2024,29305,3730252,7.13,3464285,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00576,2026-04-08,C00131,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2026,40074,6789630,4.64,6474591,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00577,2026-02-20,C00241,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2025,7189,4264517,8.79,3889665,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00578,2025-04-11,C00487,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2024,28520,6212589,6.96,5780192,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00579,2025-05-04,C00138,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2025,18905,11477013,7.03,10670178,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00580,2025-09-23,C00141,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2023,28621,3603303,2.22,3523309,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00581,2024-01-04,C00394,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2023,33385,9161439,8.38,8393710,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00582,2023-01-16,C00514,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Red,2021,32647,8890274,3.13,8612008,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00583,2023-03-19,C00494,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2021,31671,5714723,2.02,5599285,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00584,2025-11-24,C00484,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2025,34298,4776382,1.8,4690407,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00585,2025-12-31,C00588,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Silver,2025,30727,3960984,9.15,3598553,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00586,2023-12-10,C00745,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2023,45550,4546841,7.74,4194915,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00587,2023-12-13,C00756,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2021,3382,5728884,3.63,5520925,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00588,2025-11-01,C00631,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2025,55800,5055652,3.27,4890332,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00589,2026-05-21,C00458,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2026,59646,3504657,2.36,3421947,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00590,2024-01-06,C00149,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2022,56492,10748285,9.86,9688504,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00591,2025-06-20,C00354,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2023,41784,7751160,6.2,7270588,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00592,2025-08-08,C00771,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2024,31210,3558638,7.72,3283911,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00593,2024-06-21,C00460,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2024,34763,10513162,1.11,10396465,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00594,2025-12-24,C00668,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2023,23188,3682712,4.89,3502627,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00595,2024-06-06,C00768,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2022,38284,3679724,7.96,3386817,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00596,2024-10-03,C00013,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2022,693,6497350,8.49,5945724,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00597,2024-12-20,C00025,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2024,47530,4919131,2.74,4784346,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00598,2023-09-07,C00134,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2021,62770,10533494,8.71,9616026,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00599,2024-08-26,C00284,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2023,43285,6681126,6.75,6230149,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00600,2024-07-21,C00265,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2024,25087,7335854,9.96,6605202,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00601,2024-02-15,C00148,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2022,25731,4508368,5.43,4263563,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00602,2024-06-14,C00257,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,2284,5837471,6.14,5479050,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00603,2023-03-19,C00401,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Blue,2021,25590,6042598,7.3,5601488,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00604,2023-05-24,C00799,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2021,14801,8547012,9.59,7727353,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00605,2024-09-12,C00093,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2023,3617,6994099,9.63,6320567,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00606,2024-02-20,C00196,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Black,2024,36338,5414103,4.46,5172634,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00607,2023-06-23,C00198,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2021,28703,5816177,2.26,5684731,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00608,2026-01-12,C00461,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2024,20167,8969161,9.68,8100946,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00609,2023-03-29,C00536,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2022,7745,3889926,6.88,3622299,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00610,2023-03-17,C00634,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2021,9279,14273932,1.17,14106926,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00611,2023-12-19,C00100,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2021,3274,7250886,8.39,6642536,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00612,2023-08-22,C00208,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2022,38992,5064149,2.99,4912730,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00613,2023-09-05,C00219,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2021,37746,8336194,3.89,8011916,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00614,2024-07-14,C00567,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,White,2024,49646,4959445,7.27,4598893,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00615,2023-07-24,C00499,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2021,40136,3149847,2.42,3073620,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00616,2026-04-30,C00488,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2025,27277,6970170,8.13,6403495,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00617,2025-07-11,C00039,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Red,2024,15679,4803819,6.49,4492051,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00618,2024-12-13,C00543,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2023,299,5800179,2.73,5641834,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00619,2024-03-02,C00702,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2023,3477,15354086,8.17,14099657,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00620,2023-04-21,C00343,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2021,23867,6105241,4.91,5805473,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00621,2023-12-27,C00073,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Red,2023,51478,3373532,5.63,3183602,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00622,2024-02-12,C00113,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2022,44358,5523021,3.07,5353464,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00623,2024-02-14,C00497,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2023,58416,11978884,5.24,11351190,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00624,2025-07-20,C00199,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2025,25384,15601861,5.12,14803045,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00625,2023-03-07,C00477,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2021,37268,5083965,2.23,4970592,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00626,2024-08-27,C00627,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2022,10275,6346364,6.74,5918619,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00627,2025-09-28,C00015,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2025,38769,9777728,5.16,9273197,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00628,2026-04-01,C00588,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Black,2026,58446,6148005,9.52,5562714,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00629,2025-10-29,C00714,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Blue,2025,27898,4055233,5.31,3839900,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00630,2026-02-17,C00136,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2026,45426,14928072,9.55,13502441,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00631,2025-09-09,C00585,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2023,19977,4612875,5.13,4376234,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00632,2024-01-14,C00643,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2023,41078,6335961,6.7,5911451,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00633,2023-03-08,C00628,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2022,27911,6407969,7.28,5941468,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00634,2025-11-20,C00375,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2023,23854,6065413,2.0,5944104,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00635,2026-02-18,C00142,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2024,4391,6303887,7.96,5802097,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00636,2026-04-03,C00329,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2024,13749,5145238,7.85,4741336,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00637,2023-04-22,C00540,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2023,24432,10255056,5.38,9703333,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00638,2026-06-25,C00068,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2025,52422,3910395,7.24,3627282,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00639,2024-01-02,C00283,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2023,62800,4586912,1.98,4496091,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00640,2025-12-02,C00555,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Silver,2023,1487,6717235,9.73,6063648,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00641,2023-02-13,C00238,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Red,2022,12390,9540935,8.85,8696562,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00642,2025-09-22,C00456,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2023,43637,5395677,8.58,4932727,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00643,2023-12-18,C00789,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2022,14862,7150827,9.74,6454336,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00644,2023-12-07,C00187,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2021,60563,3185759,5.82,3000347,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00645,2023-03-26,C00189,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2022,37652,13096835,3.34,12659400,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00646,2023-10-30,C00309,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2022,29388,6183764,2.46,6031643,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00647,2025-07-27,C00520,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2024,10227,5560686,7.65,5135293,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00648,2023-10-29,C00706,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2021,47745,3770434,4.98,3582666,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00649,2023-08-28,C00457,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2022,1625,7466694,8.57,6826798,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00650,2024-02-04,C00285,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2022,34500,3164193,9.42,2866126,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00651,2025-11-14,C00524,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2024,12743,5900498,6.43,5521095,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00652,2025-01-27,C00316,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2024,24433,6409924,4.1,6147117,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00653,2025-06-25,C00435,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2024,10734,6210793,9.73,5606482,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00654,2024-03-01,C00344,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Black,2023,31104,5385754,5.73,5077150,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00655,2024-07-13,C00774,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2023,11461,4020574,7.39,3723453,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00656,2026-02-08,C00600,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Red,2025,2767,11040367,3.72,10629665,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00657,2023-02-24,C00652,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2023,10094,6280154,9.6,5677259,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00658,2024-01-03,C00123,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2023,59427,3779176,3.2,3658242,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00659,2025-09-11,C00488,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2023,28578,5923376,6.65,5529471,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00660,2023-11-30,C00710,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2021,3834,3574857,5.15,3390751,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00661,2025-01-09,C00297,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,41697,3683010,4.2,3528323,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00662,2023-07-13,C00324,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2021,49324,11367866,3.9,10924519,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00663,2025-12-30,C00531,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2023,23044,6035362,1.12,5967765,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00664,2023-11-30,C00193,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2023,14278,10427241,2.99,10115466,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00665,2023-09-26,C00143,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,31425,5359674,7.22,4972705,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00666,2023-08-31,C00233,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2023,8435,5325794,2.28,5204365,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00667,2025-05-20,C00794,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2023,50005,5784475,1.7,5686138,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00668,2023-03-09,C00260,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2021,33651,13014479,5.22,12335123,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00669,2023-09-11,C00687,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2021,13461,3656097,2.8,3553726,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00670,2026-04-02,C00747,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2025,23081,6590575,5.51,6227434,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00671,2024-03-20,C00773,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2022,12553,3859452,2.55,3761035,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00672,2026-04-22,C00364,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,White,2026,28813,6131097,1.97,6010314,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00673,2023-08-20,C00508,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2022,8101,15659711,5.68,14770239,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00674,2024-11-02,C00754,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,White,2023,7583,3989814,5.11,3785934,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00675,2025-05-26,C00488,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2025,56149,8469017,8.57,7743222,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00676,2025-03-22,C00147,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Grey,2024,34253,5490727,1.77,5393541,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00677,2023-05-13,C00414,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2022,63911,4109397,2.8,3994333,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00678,2026-04-06,C00410,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Grey,2024,17889,5465031,8.21,5016351,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00679,2025-11-13,C00257,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2024,9658,10654611,1.97,10444715,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00680,2023-07-23,C00028,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2021,3463,7174627,5.48,6781457,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00681,2024-09-12,C00770,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2022,40844,5025572,1.69,4940639,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00682,2025-10-01,C00554,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2023,17148,4133245,8.29,3790598,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00683,2025-07-10,C00034,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2024,55893,4396358,5.14,4170385,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00684,2025-06-01,C00113,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Blue,2025,20477,7831003,5.39,7408911,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00685,2023-04-25,C00632,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2022,17261,7088143,9.74,6397757,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00686,2026-04-24,C00760,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2026,8401,4597405,4.14,4407072,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00687,2024-12-07,C00254,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2023,26996,5032994,6.95,4683200,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00688,2024-09-16,C00039,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Red,2024,22124,5446572,5.85,5127947,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00689,2023-02-11,C00387,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2021,30782,8659634,9.87,7804928,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00690,2023-07-24,C00784,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2021,44244,4152692,5.47,3925539,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00691,2025-06-11,C00078,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2025,32568,4653569,9.77,4198915,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00692,2026-03-20,C00095,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2025,52730,3174092,7.69,2930004,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00693,2025-12-23,C00668,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,27990,4910194,8.16,4509522,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00694,2025-04-28,C00782,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2024,16466,6622758,5.08,6286321,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00695,2025-10-19,C00479,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2025,43306,7285972,7.68,6726409,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00696,2024-02-15,C00702,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Blue,2023,30309,3495048,2.35,3412914,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00697,2024-02-21,C00263,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2023,17493,6772189,6.81,6311002,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00698,2024-01-29,C00498,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Grey,2024,16094,6100113,3.79,5868918,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00699,2023-11-23,C00285,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2022,8941,3768707,8.11,3463064,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00700,2023-04-24,C00417,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2023,20572,6297615,8.8,5743424,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00701,2023-08-18,C00681,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2021,48134,5617623,2.09,5500214,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00702,2023-09-08,C00767,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2022,21580,15541770,7.64,14354378,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00703,2023-12-25,C00604,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2023,63564,5983238,4.68,5703222,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00704,2024-10-10,C00285,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2022,27772,5636432,3.22,5454938,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00705,2023-02-13,C00758,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2021,63360,5017191,1.31,4951465,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00706,2025-01-13,C00454,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2023,7998,9490169,3.13,9193126,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00707,2023-07-04,C00450,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2023,19491,4648132,9.01,4229335,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00708,2025-10-03,C00735,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2024,48296,3851372,8.57,3521309,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00709,2023-05-16,C00756,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Grey,2022,27582,4359600,8.32,3996881,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00710,2024-01-12,C00411,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2022,29058,3510156,2.22,3432230,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00711,2023-11-20,C00665,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Silver,2023,33840,5574657,7.91,5133701,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00712,2023-10-01,C00289,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2022,11369,6096942,8.44,5582360,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00713,2025-03-16,C00022,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2024,61915,5486288,6.13,5149978,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00714,2024-06-20,C00440,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2022,55825,4212266,4.61,4018080,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00715,2026-03-07,C00465,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2026,925,7775635,4.92,7393073,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00716,2024-06-29,C00212,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2023,48918,13068604,2.17,12785015,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00717,2024-01-05,C00269,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2023,51934,12250742,3.61,11808490,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00718,2025-07-27,C00710,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2025,676,7521931,8.84,6856992,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00719,2026-05-08,C00341,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Silver,2025,4787,9893194,1.53,9741828,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00720,2024-06-03,C00688,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2022,40609,3144878,9.8,2836679,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00721,2024-01-03,C00480,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2023,11132,3997285,9.37,3622739,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00722,2024-06-17,C00288,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Silver,2024,20530,9987545,2.15,9772812,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00723,2024-06-24,C00755,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2022,20513,4013640,2.48,3914101,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00724,2024-01-22,C00267,Corporate,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Blue,2024,3576,6420438,1.32,6335688,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00725,2023-03-25,C00469,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2022,23364,5576506,6.05,5239127,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00726,2024-12-16,C00173,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2024,13351,8239798,2.63,8023091,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00727,2026-03-14,C00511,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2026,27290,4284815,3.22,4146843,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00728,2025-03-18,C00332,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2024,38688,4327049,1.95,4242671,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00729,2025-07-18,C00338,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Silver,2023,62600,4124690,6.92,3839261,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00730,2023-04-10,C00073,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2021,18543,6283002,1.5,6188756,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00731,2024-05-06,C00398,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2023,5845,4405238,2.87,4278807,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00732,2024-09-03,C00318,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2023,52500,5962919,8.26,5470381,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00733,2025-11-15,C00275,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2025,32087,5417006,4.49,5173782,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00734,2024-01-17,C00350,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2023,41332,5757177,1.36,5678879,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00735,2025-12-15,C00448,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Silver,2023,42416,5796307,3.62,5586480,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00736,2024-09-07,C00565,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2024,34281,7074751,6.12,6641776,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00737,2025-05-20,C00260,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2024,6192,5590825,7.48,5172631,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00738,2023-02-03,C00187,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Black,2023,48530,5159445,2.62,5024267,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00739,2024-10-04,C00639,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2022,47454,7855333,7.03,7303103,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00740,2023-06-10,C00109,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2021,64368,11183318,8.84,10194712,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00741,2023-01-28,C00674,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2023,42978,9587737,7.23,8894543,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00742,2024-09-11,C00017,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2024,8197,6956062,2.72,6766857,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00743,2024-05-10,C00196,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2023,55187,4936112,8.11,4535793,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00744,2025-05-14,C00720,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Blue,2025,7632,7657557,2.37,7476072,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00745,2026-04-13,C00402,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2026,13194,4182698,8.47,3828423,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00746,2025-05-01,C00298,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2024,48305,4698570,7.58,4342418,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00747,2026-04-25,C00500,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2024,40074,5061103,9.15,4598012,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00748,2026-03-26,C00428,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2025,36258,3358665,9.04,3055041,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00749,2025-06-12,C00353,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Red,2025,10573,7041463,2.73,6849231,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00750,2024-11-25,C00135,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2022,55931,12072487,6.91,11238278,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00751,2023-11-28,C00684,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2021,13579,5835936,7.74,5384234,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00752,2026-05-25,C00506,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2025,6612,16474942,9.49,14911470,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00753,2025-01-04,C00516,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2024,23399,3882987,2.57,3783194,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00754,2026-06-18,C00349,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2026,7909,11344181,5.38,10733864,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00755,2025-11-21,C00449,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2023,43875,3437839,1.45,3387990,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00756,2023-03-27,C00211,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2021,6908,4878678,2.06,4778177,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00757,2025-11-02,C00373,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2024,48008,4104462,2.39,4006365,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00758,2025-05-01,C00294,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2025,16077,17305897,5.26,16395606,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00759,2025-01-08,C00543,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2023,43581,5068402,7.78,4674080,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00760,2025-04-18,C00371,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2024,62379,8411245,8.15,7725728,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00761,2023-05-23,C00169,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2023,22171,4035605,9.84,3638501,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00762,2026-03-22,C00677,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Blue,2026,64076,3441760,7.42,3186381,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00763,2024-12-05,C00151,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Grey,2024,54198,3987844,5.75,3758542,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00764,2026-06-20,C00665,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2024,28976,13485465,8.99,12273121,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00765,2026-01-05,C00130,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Black,2025,25558,5333455,7.66,4924912,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00766,2024-11-28,C00553,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2022,10487,3947406,9.01,3591744,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00767,2023-08-15,C00520,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2021,3928,10058003,3.34,9722065,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00768,2024-09-02,C00242,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2022,48290,3952968,4.05,3792872,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00769,2023-10-14,C00336,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2021,24750,3985759,3.23,3857018,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00770,2025-05-21,C00134,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,5370,5318673,4.82,5062312,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00771,2025-12-13,C00271,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2024,38550,4912516,8.01,4519023,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00772,2023-11-30,C00133,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2023,33147,5566392,7.4,5154478,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00773,2023-11-18,C00419,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Silver,2021,24204,5434046,2.07,5321561,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00774,2025-12-06,C00311,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2025,7716,4999218,9.92,4503295,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00775,2026-04-22,C00291,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2025,3188,7977746,3.75,7678580,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00776,2023-09-08,C00493,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Silver,2021,22849,4855175,1.4,4787202,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00777,2026-05-25,C00780,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,White,2026,49935,8829285,6.73,8235074,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00778,2025-04-18,C00047,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2024,15258,6906706,4.05,6626984,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00779,2023-02-20,C00575,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2021,41294,4571508,7.37,4234587,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00780,2025-12-04,C00124,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2025,49188,3638533,9.07,3308518,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00781,2026-04-01,C00412,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Black,2025,5547,16576651,6.46,15505799,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00782,2024-01-05,C00264,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2023,1576,7270297,3.86,6989663,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00783,2023-10-22,C00418,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,16748,8014551,2.39,7823003,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00784,2023-02-25,C00146,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2021,3833,6090031,1.89,5974929,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00785,2023-04-17,C00505,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2023,15703,11265876,6.27,10559505,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00786,2025-08-09,C00649,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2023,26678,3204974,1.26,3164591,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00787,2026-02-10,C00457,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2024,51459,3960556,6.11,3718566,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00788,2023-12-11,C00569,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2023,35227,6915899,9.65,6248514,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00789,2024-08-15,C00494,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2022,63706,4040495,1.54,3978271,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00790,2024-03-11,C00757,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2022,55095,7617330,1.41,7509925,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00791,2023-10-14,C00216,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2021,36469,8909543,8.9,8116593,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00792,2024-07-13,C00471,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2024,43402,4630803,4.07,4442329,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00793,2026-05-31,C00424,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2025,280,8034421,7.05,7467994,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00794,2026-01-08,C00689,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2026,58495,5017621,7.04,4664380,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00795,2023-12-29,C00198,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2021,64474,4400258,5.16,4173204,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00796,2025-01-02,C00736,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2025,5896,4632368,6.63,4325242,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00797,2024-07-28,C00008,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Black,2023,59277,5466968,6.45,5114348,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00798,2025-10-21,C00580,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2024,11172,4649048,6.94,4326404,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00799,2023-09-18,C00536,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2022,61182,5810510,3.05,5633289,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00800,2026-06-12,C00438,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2025,44609,3463913,5.09,3287599,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00801,2023-09-07,C00778,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2021,33966,8391980,4.25,8035320,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00802,2025-12-26,C00084,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2024,20725,4127331,2.75,4013829,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00803,2024-05-26,C00641,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2024,10779,10851113,1.57,10680750,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00804,2026-04-28,C00111,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2024,61280,7195901,3.25,6962034,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00805,2025-11-30,C00450,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Red,2025,61836,3218307,6.4,3012335,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00806,2023-05-05,C00067,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2023,24732,5496473,8.63,5022127,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00807,2026-06-04,C00573,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2024,28301,3181838,7.1,2955927,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00808,2026-06-18,C00639,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2025,15277,10539832,8.09,9687159,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00809,2026-06-24,C00027,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2024,6637,5410359,9.44,4899621,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00810,2023-07-30,C00199,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2023,39005,15358396,6.34,14384673,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00811,2026-06-25,C00062,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2025,12184,9803115,8.17,9002200,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00812,2025-01-02,C00151,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2024,38251,9534117,7.98,8773294,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00813,2025-01-25,C00059,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2025,33926,6625487,7.1,6155077,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00814,2024-02-15,C00194,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Red,2022,59539,4646876,1.62,4571596,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00815,2026-03-05,C00108,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2025,40376,5681182,3.96,5456207,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00816,2024-04-01,C00493,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2022,15091,13886065,2.92,13480591,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00817,2023-01-14,C00118,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2022,648,10028349,1.27,9900988,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00818,2025-01-07,C00179,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2025,63917,12298396,2.78,11956500,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00819,2026-02-09,C00269,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2026,11700,7561729,2.58,7366636,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00820,2023-08-16,C00379,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2022,61349,5518724,5.11,5236717,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00821,2023-08-31,C00197,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2023,57850,9452158,8.15,8681807,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00822,2023-04-05,C00153,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2021,38490,7898749,5.82,7439041,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00823,2025-11-06,C00482,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2023,58054,3382048,7.55,3126703,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00824,2025-02-05,C00383,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2024,34006,9186546,3.9,8828270,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00825,2025-04-01,C00213,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2023,60370,3481153,6.85,3242694,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00826,2024-03-23,C00384,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2023,27854,15227797,6.14,14292810,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00827,2025-06-29,C00525,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Blue,2023,23040,4596709,1.37,4533734,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00828,2025-04-17,C00026,Corporate,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,White,2024,52724,4911004,3.46,4741083,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00829,2025-01-05,C00660,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2025,19301,5076684,5.62,4791374,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00830,2023-05-27,C00692,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2022,2508,5739631,4.0,5510045,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00831,2026-05-22,C00268,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2026,56033,4217412,7.66,3894358,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00832,2025-04-10,C00525,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2023,49663,5208747,5.25,4935287,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00833,2025-08-29,C00480,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Black,2025,33805,15469322,5.97,14545803,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00834,2025-05-28,C00572,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2023,27373,5438202,5.05,5163572,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00835,2023-01-20,C00231,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2022,53110,6132894,4.19,5875925,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00836,2024-09-05,C00143,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2023,38466,8444118,8.07,7762677,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00837,2024-02-23,C00112,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2023,4175,10557581,2.7,10272526,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00838,2023-12-18,C00706,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2023,44229,4354539,1.29,4298365,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00839,2025-03-01,C00072,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2024,13493,14814108,6.94,13786008,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00840,2024-10-31,C00550,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Grey,2023,25631,3574303,2.0,3502816,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00841,2024-02-27,C00727,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2024,57045,4635958,4.89,4409259,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00842,2024-02-20,C00008,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Black,2022,46974,3674535,3.48,3546661,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00843,2024-05-20,C00472,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2022,21554,9422477,8.91,8582934,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00844,2025-07-23,C00401,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,White,2024,45895,4926815,8.13,4526264,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00845,2025-06-03,C00583,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2024,25209,7241278,2.65,7049384,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00846,2023-11-20,C00069,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,Blue,2022,57839,3271069,3.63,3152329,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00847,2023-06-06,C00462,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,33056,5634778,3.93,5413331,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00848,2023-02-24,C00391,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,White,2023,41868,3885846,7.75,3584692,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00849,2023-01-22,C00687,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2022,7515,10664993,2.23,10427163,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00850,2026-01-28,C00483,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2024,15878,5071837,4.94,4821288,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00851,2023-07-25,C00173,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2023,19277,3976017,7.67,3671056,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00852,2025-06-21,C00692,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Grey,2024,11661,4425553,1.31,4367578,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00853,2023-07-30,C00005,Individual,A-Class,Hatchback,1.3,Petrol,39.0,AMG Speedshift,White,2022,45242,3333709,1.47,3284703,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00854,2024-05-03,C00015,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2024,5989,16094276,1.25,15893097,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00855,2023-07-17,C00525,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2021,11002,5184737,1.4,5112150,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00856,2024-02-29,C00219,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2022,25890,14119202,2.09,13824110,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00857,2025-04-03,C00226,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2023,20725,5948561,2.91,5775457,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00858,2023-05-18,C00105,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2023,26941,6572755,6.39,6152755,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00859,2023-09-30,C00326,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2022,11490,6773446,8.96,6166545,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00860,2026-04-13,C00516,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2025,25059,3768023,7.68,3478638,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00861,2024-04-29,C00062,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2022,28082,4835720,6.58,4517529,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00862,2023-11-07,C00743,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2022,13394,4663004,3.14,4516585,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00863,2023-03-23,C00296,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2021,51890,3727417,6.83,3472834,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00864,2024-05-11,C00255,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Red,2024,35344,6102049,9.26,5536999,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00865,2025-06-24,C00198,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2023,396,5969521,5.42,5645972,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00866,2023-12-22,C00242,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2021,35969,6229400,9.39,5644459,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00867,2023-12-03,C00255,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2021,12945,5199375,2.59,5064711,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00868,2024-07-10,C00387,Corporate,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Blue,2023,5243,6476119,4.24,6201531,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00869,2026-06-02,C00494,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2024,28405,8960116,8.38,8209258,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00870,2026-05-03,C00390,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,10013,5086395,2.58,4955166,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00871,2026-02-25,C00481,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,White,2024,31512,3626824,2.23,3545945,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00872,2025-10-22,C00426,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2023,47536,3037978,4.64,2897015,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00873,2026-04-19,C00128,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,White,2026,26790,6364279,9.93,5732306,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00874,2024-12-14,C00714,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2022,46473,7930398,7.2,7359409,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00875,2025-09-05,C00693,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2025,60389,13987345,6.68,13052990,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00876,2024-06-04,C00166,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2024,39462,5760727,6.96,5359780,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00877,2026-04-15,C00170,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2026,33982,10606499,8.88,9664641,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00878,2025-12-27,C00422,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2023,58107,3331264,3.77,3205675,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00879,2024-07-04,C00316,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Blue,2022,13731,6371962,4.58,6080126,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00880,2023-05-24,C00751,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2021,27383,3411391,6.89,3176346,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00881,2023-10-03,C00462,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2023,31881,6317671,9.54,5714965,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00882,2024-01-28,C00642,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2023,64418,3277049,4.68,3123683,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00883,2025-02-12,C00241,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,Grey,2025,18137,4576774,1.27,4518648,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00884,2023-05-06,C00043,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2022,49269,4917552,6.99,4573815,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00885,2026-05-19,C00498,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,64677,3011366,3.39,2909280,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00886,2025-01-29,C00246,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2023,58337,7317216,3.84,7036234,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00887,2024-11-07,C00743,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2024,202,4514208,7.28,4185573,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00888,2024-07-26,C00634,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Grey,2022,49246,4408389,4.32,4217946,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00889,2024-10-21,C00754,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2024,41535,14452881,1.41,14249095,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00890,2026-06-08,C00488,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Silver,2026,22828,6087651,9.38,5516629,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00891,2025-12-01,C00131,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Silver,2023,51436,12375540,5.54,11689935,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00892,2025-07-02,C00217,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2025,31599,6044953,3.17,5853327,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00893,2023-11-25,C00737,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2022,59155,8025585,3.52,7743084,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00894,2025-12-30,C00341,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2023,47540,4255075,8.16,3907860,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00895,2025-02-20,C00448,Corporate,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2023,42080,5501099,9.7,4967492,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00896,2023-06-29,C00193,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,5841,5980261,6.33,5601710,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00897,2026-03-27,C00195,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Silver,2024,110,6193398,6.31,5802594,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00898,2025-11-30,C00010,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,White,2023,39427,5426941,1.96,5320572,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00899,2025-10-20,C00765,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2023,29870,3694726,3.55,3563563,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00900,2026-03-21,C00722,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2025,41358,5027034,5.46,4752557,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00901,2024-04-05,C00184,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Silver,2022,48216,5266893,8.79,4803933,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00902,2026-01-27,C00357,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2025,22112,6870842,5.26,6509435,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00903,2024-02-04,C00332,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Blue,2022,56115,3444203,1.88,3379451,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00904,2023-10-09,C00215,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2022,45610,6214188,9.07,5650561,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00905,2026-03-24,C00386,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Black,2026,44454,3884708,8.73,3545572,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00906,2025-08-28,C00666,Individual,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,White,2025,61935,4418433,9.82,3984542,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00907,2023-03-11,C00611,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2023,15784,10725779,3.72,10326780,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00908,2025-02-21,C00123,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Black,2024,41440,4908147,4.31,4696605,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00909,2024-04-05,C00281,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2024,38459,5783917,6.15,5428206,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00910,2024-09-03,C00551,Corporate,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Grey,2022,8207,5192428,1.57,5110906,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00911,2026-02-12,C00532,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Grey,2024,51345,3164982,5.4,2994072,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00912,2026-05-11,C00322,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2024,11792,4668306,5.03,4433490,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00913,2023-06-29,C00128,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2021,16827,14522279,1.32,14330584,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00914,2023-01-01,C00301,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2023,19700,7149432,9.51,6469521,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00915,2025-12-06,C00102,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2024,39726,5264094,2.89,5111961,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00916,2024-09-05,C00606,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2024,62745,12567663,5.97,11817373,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00917,2026-01-31,C00410,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2025,17083,9792479,9.13,8898425,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00918,2026-01-02,C00649,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Red,2026,4624,11604915,3.42,11208026,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00919,2023-11-11,C00619,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2022,51628,5990310,1.23,5916629,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00920,2023-08-14,C00092,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Silver,2021,35937,4445756,3.96,4269704,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00921,2024-07-14,C00388,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2024,6419,7931947,9.72,7160961,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00922,2025-09-29,C00289,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2025,34665,4429009,6.15,4156624,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00923,2025-03-08,C00545,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2025,22621,7852202,7.1,7294695,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00924,2023-01-20,C00147,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2021,33657,6198222,6.92,5769305,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00925,2026-05-31,C00363,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Silver,2025,46319,5644588,4.95,5365180,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00926,2024-04-13,C00417,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Grey,2023,41656,9347106,9.53,8456326,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00927,2024-05-06,C00293,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Blue,2024,10820,6053526,1.76,5946983,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00928,2025-10-16,C00715,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2023,44900,6101370,8.99,5552856,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00929,2025-05-20,C00757,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2023,35017,13209257,3.2,12786560,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00930,2023-06-03,C00053,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2022,55011,12038231,4.18,11535032,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00931,2023-08-20,C00785,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2022,59902,5937566,8.49,5433466,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00932,2024-06-26,C00223,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Blue,2024,146,6986185,6.12,6558630,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00933,2024-12-29,C00110,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2024,40339,5643916,3.69,5435655,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00934,2024-12-27,C00542,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Black,2024,6641,7984669,2.78,7762695,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00935,2023-11-15,C00307,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,White,2021,16392,5109908,4.56,4876896,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00936,2025-06-17,C00766,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2023,55008,3412044,2.26,3334931,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00937,2024-01-24,C00340,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2023,2638,15272442,4.79,14540892,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00938,2024-06-28,C00699,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2024,27596,15700135,5.46,14842907,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00939,2023-08-13,C00513,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Black,2023,51951,8590617,2.4,8384442,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00940,2026-05-07,C00498,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2024,526,6291811,3.61,6064676,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00941,2024-01-18,C00718,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,White,2024,18424,7955287,8.78,7256812,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00942,2025-10-25,C00645,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Black,2023,11874,5180646,8.69,4730447,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00943,2023-03-20,C00019,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2022,64906,5400546,2.32,5275253,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00944,2025-12-11,C00345,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Black,2024,45885,8885745,3.08,8612064,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00945,2024-09-15,C00729,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Silver,2024,17645,10591073,9.49,9585980,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00946,2023-03-25,C00293,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2023,3416,4582587,3.89,4404324,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00947,2024-01-14,C00115,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2023,62149,4323639,4.01,4150261,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00948,2025-01-08,C00542,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Grey,2023,53086,5374342,8.01,4943857,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00949,2026-04-11,C00761,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Red,2025,5716,4974762,2.17,4866809,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00950,2025-07-01,C00309,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Red,2025,4907,18389282,6.57,17181106,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00951,2023-09-19,C00778,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Blue,2023,27407,7425674,3.27,7182854,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00952,2023-05-19,C00023,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2022,27459,5145162,9.57,4652769,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00953,2023-04-04,C00759,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Grey,2021,3984,7125377,7.24,6609499,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00954,2025-06-15,C00622,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,25175,4771370,4.51,4556181,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00955,2026-03-17,C00526,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Silver,2026,38804,3944241,8.91,3592809,1,D003,Mercedes-Benz Delhi,New Delhi,Delhi,North
+S00956,2024-07-03,C00244,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Grey,2022,7805,13727750,1.41,13534188,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00957,2023-09-30,C00255,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2022,57238,6111621,6.78,5697253,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00958,2025-01-25,C00271,Corporate,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Red,2024,5455,7238775,8.96,6590180,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00959,2023-04-28,C00749,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2021,53472,3232716,4.2,3096941,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00960,2026-04-09,C00670,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Blue,2026,47356,3809573,4.44,3640427,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00961,2024-07-04,C00405,Corporate,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,White,2024,38119,15249509,8.72,13919751,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00962,2023-10-31,C00181,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Grey,2022,6140,10417521,5.13,9883102,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00963,2023-02-13,C00704,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,White,2022,10677,7683540,8.36,7041196,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00964,2024-05-17,C00742,Corporate,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2023,59580,4476337,4.62,4269530,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00965,2025-02-25,C00660,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2025,7211,6356658,7.87,5856389,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00966,2023-10-20,C00109,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2021,39297,4134296,9.7,3733269,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00967,2026-02-26,C00159,Corporate,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Red,2025,53442,5710927,3.99,5483061,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00968,2023-09-10,C00106,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Black,2023,54062,3856384,5.9,3628857,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00969,2024-04-09,C00232,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,Blue,2023,25256,13903730,6.9,12944372,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00970,2024-04-04,C00631,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Silver,2024,62682,6597575,4.22,6319157,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00971,2026-05-23,C00186,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Grey,2026,11669,5910655,4.01,5673637,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00972,2024-08-10,C00678,Individual,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Grey,2023,57370,3518628,9.25,3193154,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00973,2023-11-01,C00739,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Black,2021,9606,4931947,4.52,4709022,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00974,2023-10-24,C00395,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,Blue,2023,21171,11360519,2.64,11060601,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00975,2025-04-27,C00670,Corporate,GLE,Luxury SUV,3.0,Diesel,28.0,AMG Speedshift,Blue,2023,52002,7873464,2.24,7697098,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00976,2025-12-29,C00086,Individual,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Grey,2024,34896,5383528,3.07,5218253,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00977,2025-01-10,C00572,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Black,2025,13322,6334175,1.15,6261331,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00978,2025-01-09,C00565,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2025,19313,4170862,8.52,3815504,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00979,2023-10-10,C00751,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Silver,2023,63049,13576129,2.29,13265235,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00980,2026-04-06,C00031,Corporate,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,White,2026,31249,4162906,8.83,3795321,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00981,2023-06-07,C00784,Corporate,C-Class,Sedan,2.0,Petrol,33.0,AMG Speedshift,Grey,2023,37301,5572175,4.75,5307496,1,D004,Mercedes-Benz Bengaluru,Bengaluru,Karnataka,South
+S00982,2024-09-05,C00661,Individual,E-Class,Sedan,2.0,Diesel,40.0,Automatic,Black,2023,26969,7007184,5.0,6656824,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00983,2023-03-07,C00406,Individual,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Red,2021,49226,5334249,2.44,5204093,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00984,2025-10-24,C00279,Individual,GLA,Compact SUV,1.3,Petrol,35.0,AMG Speedshift,White,2024,46488,3784677,9.38,3429674,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00985,2026-06-21,C00573,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Blue,2026,14346,16411993,8.4,15033385,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00986,2025-02-18,C00200,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Black,2025,3582,7780408,6.82,7249784,1,D007,Mercedes-Benz Kolkata,Kolkata,West Bengal,East
+S00987,2026-05-20,C00110,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,Red,2025,1838,5512213,2.46,5376612,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00988,2024-01-20,C00276,Individual,A-Class,Hatchback,1.3,Petrol,39.0,Automatic,Red,2022,13220,3685277,1.29,3637736,1,D005,Mercedes-Benz Hyderabad,Hyderabad,Telangana,South
+S00989,2023-04-09,C00366,Individual,EQA,Electric SUV,0.0,Electric,95.0,AMG Speedshift,Red,2022,6108,6446914,1.08,6377287,1,D001,Mercedes-Benz Pune,Pune,Maharashtra,West
+S00990,2025-03-11,C00100,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,AMG Speedshift,Grey,2023,23320,14346291,7.32,13296142,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00991,2023-11-04,C00039,Individual,C-Class,Sedan,2.0,Petrol,33.0,Automatic,White,2023,38481,5515559,5.29,5223785,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00992,2023-07-11,C00670,Corporate,EQA,Electric SUV,0.0,Electric,95.0,Automatic,Red,2021,15176,5623713,8.27,5158631,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00993,2023-09-26,C00442,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,White,2022,19060,6313036,8.7,5763801,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
+S00994,2026-05-27,C00510,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2026,62784,12598426,6.65,11760630,1,D010,Mercedes-Benz Bhopal,Bhopal,Madhya Pradesh,Central
+S00995,2023-06-28,C00303,Corporate,GLA,Compact SUV,1.3,Petrol,35.0,Automatic,Silver,2022,6167,4683126,2.53,4564642,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S00996,2023-07-02,C00485,Individual,GLC,SUV,2.0,Diesel,32.0,AMG Speedshift,Grey,2023,11743,7429985,5.15,7047340,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00997,2026-03-10,C00419,Corporate,E-Class,Sedan,2.0,Diesel,40.0,AMG Speedshift,Silver,2025,2594,7397681,3.58,7132844,1,D002,Mercedes-Benz Mumbai,Mumbai,Maharashtra,West
+S00998,2023-06-20,C00699,Individual,GLC,SUV,2.0,Diesel,32.0,Automatic,Grey,2021,27079,5678458,3.37,5487093,1,D006,Mercedes-Benz Chennai,Chennai,Tamil Nadu,South
+S00999,2023-01-17,C00584,Individual,S-Class,Luxury Sedan,3.0,Petrol,26.0,Automatic,White,2023,55906,12971674,4.38,12403514,1,D009,Mercedes-Benz Jaipur,Jaipur,Rajasthan,North
+S01000,2023-07-11,C00477,Individual,GLE,Luxury SUV,3.0,Diesel,28.0,Automatic,White,2022,30531,9339832,5.82,8796253,1,D008,Mercedes-Benz Ahmedabad,Ahmedabad,Gujarat,West
