@@ -47,14 +47,16 @@ The objective of this project is to analyze sales performance, compare vehicle m
 
 ## Dashboard Preview
 ### Sales Performance Dashboard
-(Add sales_dashboard.png here)
-(Add sales_dashboard_with_slicers.png here)
+![Sales Performance Dashboard](powerbi/dashboard_screenshots/sales_dashboard.png)
+
+### Sales Performance Dashboard with Slicers
+![Sales Performance Dashboard with Slicers](powerbi/dashboard_screenshots/sales_dashboard_with_slicers.png)
 
 ### Technical Comparison
-(Add technical_comparison.png here)
+![Technical Comparison](powerbi/dashboard_screenshots/technical_comparison.png)
 
 ### Geographic Analysis
-(Add geographic_analysis.png here)
+![Geographic Analysis](powerbi/dashboard_screenshots/geographic_analysis.png)
 
 ## Future Improvements
 - Add Year-over-Year (YoY) analysis
