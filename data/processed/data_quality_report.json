@@ -1,0 +1,18 @@
+{
+    "initial_rows": 3060,
+    "missing_values_by_column": {
+        "customer_type": 48,
+        "color": 37,
+        "mileage_km": 32,
+        "discount_percent": 34
+    },
+    "duplicates_removed": 57,
+    "invalid_dates": 30,
+    "invalid_numerics": 30,
+    "rejected_rows": 117,
+    "rejection_reasons": [
+        "30 rows rejected due to invalid dates",
+        "30 rows rejected due to negative numerics"
+    ],
+    "final_rows": 2943
+}

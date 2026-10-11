@@ -1,0 +1,8 @@
+{
+    "timestamp": "2026-10-10T14:41:09.174841",
+    "duration_seconds": 0.04,
+    "status": "SUCCESS",
+    "records_processed": 3060,
+    "records_loaded": 2943,
+    "mysql_load_successful": false
+}
