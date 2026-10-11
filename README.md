@@ -1,75 +1,77 @@
-# Mercedes-Benz Sales Performance Analytics (Enterprise Edition)
+# Mercedes-Benz Sales Performance Analytics
 
 ## Project Overview
-This project is an end-to-end Enterprise Data Engineering and BI solution analyzing Mercedes-Benz vehicle sales. It demonstrates the complete lifecycle of data from extraction and validation to transformation, database loading, and interactive visualization.
+An end-to-end Automotive Sales Analytics and Data Engineering solution for Mercedes-Benz vehicle transactions. This project processes raw sales data across a Databricks Lakehouse Medallion Architecture (Bronze, Silver, Gold), models it into a dimensional Star Schema, and delivers executive business insights through interactive web and Power BI dashboards.
 
-> **Note on Data:** This project uses a reproducibly generated **synthetic automotive dataset** simulating realistic transaction patterns. It does *not* contain actual or confidential Mercedes-Benz sales data.
+## Business Objectives
+- **Sales Performance Tracking**: Measure total revenue, vehicle units sold, and average price across categories.
+- **Model & Segment Analysis**: Compare vehicle classes, fuel types, engine displacements, and transmissions.
+- **Regional Distribution**: Identify top-performing territories, dealerships, and regional demand trends.
+- **Data Engineering & Reliability**: Ingest, cleanse, deduplicate, and model high-volume transactions using PySpark and Databricks.
 
-## Key Features
-- **Synthetic Data Generation**: Reproducible Python script to generate 3000+ realistic transaction records with controlled data-quality issues for robust pipeline testing.
-- **Python Data Pipeline (ETL)**: A local Pandas-based ETL pipeline that validates schemas, normalizes formats, handles missing values, and drops duplicates while generating an extensive JSON quality report.
-- **Data Modeling & MySQL**: Star schema modeling with fact and dimension tables, structured via parameterized Python queries for safe and idempotent loads.
-- **Interactive Enterprise React Dashboard**: A responsive Vite-powered React dashboard displaying sales performance, model analytics, technical comparisons, and real-time ETL pipeline monitoring, designed with modern dark-navy aesthetics.
-- **Static GitHub Pages Demo**: A recruiter-accessible, serverless static deployment of the React dashboard utilizing the processed demo JSON dataset.
-- **Automated Testing**: CI/CD-ready pytest suite verifying reproducibility, pipeline integrity, and data schema conformity.
-- **Optional FastAPI Backend**: A modular Python FastAPI layer providing analytical endpoints.
+## Tech Stack
+| Layer | Technologies |
+|---|---|
+| **Big Data Engineering & Lakehouse** | Databricks, PySpark, Delta Lake |
+| **Data Processing & ETL** | Python (Pandas, NumPy) |
+| **Data Storage & Modeling** | MySQL, Star Schema (Fact & Dimension Tables) |
+| **Interactive Web Dashboard** | React, Vite, Recharts, Lucide Icons |
+| **Business Intelligence (BI)** | Power BI Desktop |
+| **Version Control & CI/CD** | Git, GitHub, GitHub Actions |
 
-## Live Demo
-Check out the static Recruiter Demo on GitHub Pages:
-[Live Demo Link (Update after GitHub Pages setup)](https://Kratika2613.github.io/mercedes-sales-analytics/)
+---
 
-## Technology Stack
-- **Data Engineering**: Python, Pandas, NumPy
-- **Database / SQL**: MySQL, Parameterized Queries, ANSI SQL Analytics
-- **Web Frontend**: React, Vite, Recharts, Lucide React, Custom Vanilla CSS
-- **Backend**: FastAPI
-- **BI / Visualization**: Power BI
-- **DevOps**: GitHub Actions, Pytest
+## Databricks & PySpark Medallion Architecture
+- **Bronze Layer (`03_Bronze_layer.py`)**: Raw data ingestion with ingestion timestamps and source system audit tracking.
+- **Silver Layer (`04_Silver_layer.py`)**: Cleansing, deduplication, null handling, and string standardization using PySpark DataFrame operations.
+- **Gold Layer (`05_Gold_Layer.py`)**: Star Schema modeling creating Dimension tables (`gold_dim_model`, `gold_dim_dealer`, `gold_dim_customer`, `gold_dim_date`) and the Fact table (`gold_fact_sales`) using PySpark window functions.
+- **Business KPIs (`06_Business_KPIs.sql`)**: Databricks SQL analytical queries calculating revenue, top models, regional distributions, and sales volume.
 
-## Setup Instructions
+---
 
-### 1. Data Generation and ETL Pipeline
+## Power BI Dashboard Previews
+
+### 1. Sales Performance Dashboard
+![Sales Performance Dashboard](powerbi/dashboard_screenshots/sales_dashboard.png)
+
+### 2. Sales Performance with Interactive Slicers
+![Sales Performance Dashboard with Slicers](powerbi/dashboard_screenshots/sales_dashboard_with_slicers.png)
+
+### 3. Technical Comparison
+![Technical Comparison](powerbi/dashboard_screenshots/technical_comparison.png)
+
+### 4. Geographic & Regional Analysis
+![Geographic Analysis](powerbi/dashboard_screenshots/geographic_analysis.png)
+
+---
+
+## Repository Structure
+- **notebooks/**: Databricks PySpark notebooks implementing Bronze, Silver, Gold layers, and KPI SQL queries.
+- **dashboard/**: React + Vite web dashboard application.
+- **data/**: Raw CSV inputs and processed datasets.
+- **python/**: Local Python ETL pipeline scripts and data generator.
+- **sql/**: Schema definitions and analytical SQL queries.
+- **powerbi/**: Power BI workbook and dashboard screenshots.
+- **.github/workflows/**: Automated CI/CD pipeline for dashboard deployment.
+
+---
+
+## How to Run Locally
+
+### 1. Run Data ETL Pipeline
 ```bash
-# Generate raw synthetic data (creates data/raw/mercedes_sales_raw.csv)
+# Generate and clean dataset
 python python/generate_synthetic_data.py
-
-# Run the ETL pipeline (cleans data, generates JSON reports, creates demo JSON)
 python python/run_pipeline.py
 ```
 
-### 2. Viewing the Local React Dashboard
+### 2. Run the Interactive React Dashboard
 ```bash
 cd dashboard
 npm install
 npm run dev
-# The application will run locally on http://localhost:5173
 ```
-
-### 3. Running the FastAPI Backend
-```bash
-uvicorn python.api:app --reload
-```
-
-### 4. Running the Tests
-```bash
-pytest tests/
-```
-
-## Project Architecture
-1. **Raw Data**: Synthetically generated into `data/raw/`
-2. **ETL Pipeline**: Transforms raw CSV, validates records, handles missing/duplicate/invalid data.
-3. **Processed Data**: Cleaned data saved to `data/processed/mercedes_sales_cleaned.csv` and `data/processed/mercedes_sales_demo.json`
-4. **Data Quality Reports**: Saved alongside processed data.
-5. **Database**: Optional MySQL upload mapped into Star Schema definitions in `sql/schema.sql`.
-6. **Frontend**: Vite/React application fetching `data.json` for static visualization or via FastAPI.
-
-## Dashboards
-- **React Web App**: See `dashboard/` directory. Contains sections for Executive Overview, Model Performance, Technical Analytics, Regional Analysis, and Data Quality Monitoring.
-- **Power BI**: The repository includes `powerbi/Mercedes_Sales_Dashboard.pbix` (using legacy data, can be refreshed with the new cleaned CSV).
-
-## Known Limitations
-- The MySQL integration requires a running local instance. If unavailable, the ETL script skips DB upload but successfully outputs processed files for the static React demo.
-- ServiceNow integration is modularly omitted until environment credentials are provided.
 
 ---
-**Disclaimer**: Synthetic Demonstration Data. All figures, customer details, and transactions are generated purely for technical portfolio demonstration.
+
+*Note: All data in this repository is demonstration automotive transaction data generated for portfolio and analytics modeling purposes.*
